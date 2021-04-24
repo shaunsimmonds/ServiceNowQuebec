@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">3917cd867102101091f9db5cf8a3723f</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-15 18:44:42</sys_created_on>
+        <sys_id>7d7ebb912fe720108e6d206df699b664</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Loaner Request" source="x_20264_loaner_req">78bdb3d92f2720108e6d206df699b673</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-15 18:44:42</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
